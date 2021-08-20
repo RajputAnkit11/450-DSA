@@ -1,0 +1,5 @@
+1.Full binary tree 
+2.Complete binary tree
+3.Prefect binary tree
+4.Balanced binary tree
+5.Degenerated tree
